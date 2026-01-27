@@ -1,2 +1,2 @@
-# sps-2d
-Super Market Simulator 2d
+# SPS
+Super Market Simulator 2d é um jogo realizado no Game Maker Engine com o objetivo de trazer entretenimento.
